@@ -14,3 +14,6 @@ Select Tools -> Options -> Projects and Solutions -> Build and Run,
 Untick the checkbox of "Only Build startup projects and dependencies on Run",
 
 Select Always Build from the "On Run, when project are out of date" dropdown.
+
+
+https://stackoverflow.com/questions/21582022/visual-studio-breakpoints-not-being-hit
